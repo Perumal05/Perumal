@@ -127,15 +127,17 @@ Cloud Practitioner
 
 ---
 
-# 📊 GitHub Dashboard
+## 📊 GitHub Dashboard
 
 <p align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Perumal05&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Perumal05&theme=tokyonight&hide_border=true"/>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Perumal05&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Perumal05&theme=tokyo-night&hide_border=true"/>
 
