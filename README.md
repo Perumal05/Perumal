@@ -30,19 +30,38 @@ DevOps Engineer | Java Developer | Kubernetes | Cloud Native | DevSecOps
 
 ---
 
-# 🏅 Certifications & Badges
+## 🏅 Certifications & Badges
 
-<p align="center">
+<table align="center">
+<tr>
+<td align="center">
 
 <a href="https://mylearn.oracle.com/ou/learning-path/oracle-java-foundations/79726">
-<img src="./assets/oracle-learning-explorer.png" width="280"/>
+<img src="./assets/oracle-learning-explorer.png" height="120"/>
 </a>
+
+<br>
+
+**Oracle Java Foundations**  
+Oracle Learning Explorer
+
+</td>
+
+<td align="center">
 
 <a href="https://www.credly.com/badges/0a37a0f3-a34a-40f1-99fb-d84bb8d40b53/public_url">
-<img src="./assets/aws-cloud-quest-cloud-practitioner-training-badge.png" width="120"/>
+<img src="./assets/aws-cloud-quest-cloud-practitioner-training-badge.png" height="120"/>
 </a>
 
-</p>
+<br>
+
+**AWS Cloud Quest**  
+Cloud Practitioner
+
+</td>
+
+</tr>
+</table>
 
 ---
 
