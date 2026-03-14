@@ -149,7 +149,7 @@ Cloud Practitioner
 
 <p align="center">
   
-<img src="https://leetcard.jacoblin.cool/Perumal_S?theme=dark&ext=heatmap" width="900"/>
+<img src="https://leetcard.jacoblin.cool/Perumal_S?theme=dark&ext=heatmap"/>
   
 </p>
 
