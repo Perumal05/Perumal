@@ -2,11 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=Perumal%20S&fontSize=50&fontAlignY=40&animation=fadeIn&fontColor=ffffff&color=0:7F00FF,50:007CF0,100:FF7E5F&desc=DevOps%20Engineer%20|%20Java%20Developer%20|%20Kubernetes%20|%20Cloud%20Native%20|%20DevSecOps&descAlignY=65&descSize=18"/>
 </p>
 
-<br>
-
 ---
-
-<br>
 
 # 🚀 About Me
 
@@ -19,172 +15,107 @@
 
 ### Java Interests
 
-- Spring Boot
-- Spring Security
-- Microservices Architecture
-- Apache Kafka
-- MySQL
-- MongoDB
-
-<br>
+Spring Boot • Spring Security • Microservices • Kafka • MySQL • MongoDB
 
 ---
 
-<br>
+# 🏅 Certifications & Badges
 
-## 🏅 Certifications & Badges
-
-<table align="center">
-<tr>
-
-<td align="center">
+<p align="center">
 
 <a href="https://mylearn.oracle.com/ou/learning-path/oracle-java-foundations/79726">
 <img src="./assets/oracle-learning-explorer.png" height="120"/>
 </a>
 
-<br>
-
-**Oracle Java Foundations**  
-Oracle Learning Explorer
-
-</td>
-
-<td align="center">
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://www.credly.com/badges/0a37a0f3-a34a-40f1-99fb-d84bb8d40b53/public_url">
 <img src="./assets/aws-cloud-quest-cloud-practitioner-training-badge.png" height="120"/>
 </a>
 
-<br>
-
-**AWS Cloud Quest**  
-Cloud Practitioner
-
-</td>
-
-</tr>
-</table>
-
-<br>
+</p>
 
 ---
 
-<br>
-
 # 🛠 Technologies & Tools
-
-<table>
-<tr>
-
-<td valign="top" width="33%">
 
 ### ☸️ Containerization
 
+<p>
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
 ![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white)
 
-</td>
-
-<td valign="top" width="33%">
+</p>
 
 ### ⚙️ CI/CD
 
+<p>
+
 ![Tekton](https://img.shields.io/badge/Tekton-FD495C?style=for-the-badge&logo=tekton&logoColor=white)
-
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
-
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
 ![GitOps](https://img.shields.io/badge/GitOps-000000?style=for-the-badge&logo=git&logoColor=white)
 
-</td>
-
-<td valign="top" width="33%">
+</p>
 
 ### 🏗 Infrastructure as Code
 
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+<p>
 
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
-</td>
-
-</tr>
-
-<tr>
-
-<td valign="top">
+</p>
 
 ### 📊 Observability
 
+<p>
+
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-
 ![Jaeger](https://img.shields.io/badge/Jaeger-66CFE3?style=for-the-badge&logo=jaeger&logoColor=black)
-
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
-
 ![Elastic](https://img.shields.io/badge/EFK-005571?style=for-the-badge&logo=elastic&logoColor=white)
 
-</td>
-
-<td valign="top">
+</p>
 
 ### ☁️ Cloud
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+<p>
 
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
-</td>
-
-<td valign="top">
+</p>
 
 ### 🔐 DevSecOps
 
+<p>
+
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
-
 ![Gitleaks](https://img.shields.io/badge/Gitleaks-FF6B6B?style=for-the-badge)
-
 ![Checkov](https://img.shields.io/badge/Checkov-000000?style=for-the-badge)
-
 ![JFrog](https://img.shields.io/badge/JFrog-41BF47?style=for-the-badge&logo=jfrog&logoColor=white)
-
 ![Vault](https://img.shields.io/badge/Vault-000000?style=for-the-badge&logo=vault)
 
-</td>
-
-</tr>
-</table>
-
-<br>
+</p>
 
 ### 💻 Programming
 
 <p>
 
 ![Java](https://img.shields.io/badge/Java%20(Spring%20Boot)-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 </p>
 
-<br>
-
 ---
 
-<br>
-
-## 📊 GitHub Dashboard
+# 📊 GitHub Dashboard
 
 <p align="center">
 
@@ -196,38 +127,30 @@ Cloud Practitioner
 
 <p align="center">
 
-<img width="850" src="https://github-readme-activity-graph.vercel.app/graph?username=Perumal05&theme=tokyo-night&hide_border=true&area=true"/>
+<img width="820" src="https://github-readme-activity-graph.vercel.app/graph?username=Perumal05&theme=tokyo-night&hide_border=true&area=true"/>
 
 </p>
 
-<br>
-
 ---
 
-<br>
-
 <!--
-## 🧠 LeetCode Progress 
+## 🧠 LeetCode Progress
 
 <p align="center">
 <img src="https://leetcard.jacoblin.cool/Perumal_S?theme=dark&ext=heatmap"/>
 </p>
-
----
 -->
 
 # 🤝 Connect With Me
 
-📧 Email  
-**perumal180402@gmail.com**
+📧 **Email**  
+perumal180402@gmail.com  
 
-💼 LinkedIn  
+💼 **LinkedIn**  
 https://www.linkedin.com/in/perumal-s-133481251/
 
-🌐 GitHub  
+🌐 **GitHub**  
 https://github.com/Perumal05
-
-<br>
 
 ---
 
