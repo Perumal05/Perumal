@@ -153,6 +153,14 @@ Cloud Practitioner
   
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Perumal05&theme=tokyo-night&hide_border=true&area=true" width="900"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Perumal05&theme=tokyonight" width="900"/>
+</p>
+
 ---
 
 # 🤝 Connect With Me
