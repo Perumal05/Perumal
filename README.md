@@ -145,17 +145,25 @@ Cloud Practitioner
 
 ---
 
-## 🧠 LeetCode Progress
+## 🧠 Problem Solving
 
 <p align="center">
 
-<img src="https://leetcard.jacoblin.cool/Perumal_S?theme=dark&font=baloo&ext=contest"/> 
+<a href="https://leetcode.com/u/Perumal_S/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
 
 </p>
 
 <p align="center">
 
-<img src="https://leetcard.jacoblin.cool/Perumal_S?theme=dark&ext=heatmap"/> 
+<img src="https://leetcode-stats.vercel.app/api?username=Perumal_S&theme=dark"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Perumal05&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
