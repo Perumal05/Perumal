@@ -145,15 +145,17 @@ Cloud Practitioner
 
 ---
 
+<!--
 ## 🧠 LeetCode Progress 
 
-<!-- <p align="center">
+<p align="center">
   
 <img src="https://leetcard.jacoblin.cool/Perumal_S?theme=dark&ext=heatmap"/>
   
-</p> -->
+</p> 
 
 ---
+-->
 
 # 🤝 Connect With Me
 
