@@ -39,7 +39,7 @@ DevOps Engineer | Java Developer | Kubernetes | Cloud Native | DevSecOps
 </a>
 
 <a href="https://www.credly.com/badges/0a37a0f3-a34a-40f1-99fb-d84bb8d40b53/public_url">
-<img src="./assets/aws-cloud-quest-cloud-practitioner-training-badge.png" width="140"/>
+<img src="./assets/aws-cloud-quest-cloud-practitioner-training-badge.png" width="120"/>
 </a>
 
 </p>
