@@ -145,6 +145,22 @@ Cloud Practitioner
 
 ---
 
+## 🧠 LeetCode Progress
+
+<p align="center">
+
+<img src="https://leetcard.jacoblin.cool/Perumal_S?theme=dark&font=baloo&ext=contest"/> 
+
+</p>
+
+<p align="center">
+
+<img src="https://leetcard.jacoblin.cool/Perumal_S?theme=dark&ext=heatmap"/> 
+
+</p>
+
+---
+
 # 🤝 Connect With Me
 
 📧 Email  
