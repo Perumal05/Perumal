@@ -1,12 +1,12 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=blur&height=320&text=Perumal%20S&fontSize=55&fontAlignY=40&animation=fadeIn&fontColor=ffffff&color=0:8A2BE2,50:007CF0,100:FF8C42&desc=DevOps%20Engineer%20|%20Java%20Developer%20|%20Kubernetes%20|%20Cloud%20Native%20|%20DevSecOps&descAlignY=65&descSize=20"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=Perumal%20S&fontSize=50&fontAlignY=40&animation=fadeIn&fontColor=ffffff&color=0:7F00FF,50:007CF0,100:FF7E5F&desc=DevOps%20Engineer%20|%20Java%20Developer%20|%20Kubernetes%20|%20Cloud%20Native%20|%20DevSecOps&descAlignY=65&descSize=18"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Perumal</h1>
+<!-- <h1 align="center">Hi 👋, I'm Perumal</h1>
 
 <h3 align="center">
 DevOps Engineer | Java Developer | Kubernetes | Cloud Native | DevSecOps
-</h3>
+</h3> -->
 
 ---
 
