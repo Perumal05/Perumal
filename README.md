@@ -35,7 +35,7 @@ DevOps Engineer | Java Developer | Kubernetes | Cloud Native | DevSecOps
 <p align="center">
 
 <a href="https://mylearn.oracle.com/ou/learning-path/oracle-java-foundations/79726">
-<img src="./assets/oracle-learning-explorer.png" width="140"/>
+<img src="./assets/oracle-learning-explorer.png" width="560"/>
 </a>
 
 <a href="https://www.credly.com/badges/0a37a0f3-a34a-40f1-99fb-d84bb8d40b53/public_url">
