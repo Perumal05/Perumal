@@ -1,8 +1,9 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&text=Perumal%20S&fontSize=50&color=0:0f2027,50:203a43,100:2c5364&stroke=ffffff&strokeWidth=1&fontColor=ffffff&animation=fadeIn&desc=DevOps%20Engineer%20|%20Java%20Developer%20|%20Kubernetes%20|%20Cloud%20Native&descAlignY=65"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&text=Perumal%20S&fontSize=50&fontAlignY=40&animation=fadeIn&fontColor=ffffff&color=0:7F00FF,50:007CF0,100:FF7E5F&desc=DevOps%20Engineer%20|%20Java%20Developer%20|%20Kubernetes%20|%20Cloud%20Native%20|%20DevSecOps&descAlignY=65&descSize=18"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Perumal</h1>
+
 <h3 align="center">
 DevOps Engineer | Java Developer | Kubernetes | Cloud Native | DevSecOps
 </h3>
@@ -16,7 +17,7 @@ DevOps Engineer | Java Developer | Kubernetes | Cloud Native | DevSecOps
 - 🚀 Deploying workloads on **Kubernetes / OpenShift**
 - 📦 Passionate about **Cloud Native Platforms & Platform Engineering**
 - 📊 Interested in **Observability, DevSecOps, and Infrastructure Automation**
-- ☕ Interested in **Java development**
+- ☕ Interested in **Java backend development**
 
 ### Java Interests
 
@@ -33,14 +34,12 @@ DevOps Engineer | Java Developer | Kubernetes | Cloud Native | DevSecOps
 
 <p align="center">
 
-<!-- Oracle Badge -->
-<a href="#">
-<img src="./assets/oracle-java-foundations.png" width="130"/>
+<a href="https://mylearn.oracle.com/ou/learning-path/oracle-java-foundations/79726">
+<img src="./assets/oracle-learning-explorer.png" width="140"/>
 </a>
 
-<!-- AWS Badge -->
 <a href="https://www.credly.com/badges/0a37a0f3-a34a-40f1-99fb-d84bb8d40b53/public_url">
-<img src="https://images.credly.com/size/340x340/images/6843d0a2-4f1e-4c47-a4b8-6c4f8f1a3f4d/aws-cloud-quest-cloud-practitioner.png" width="130"/>
+<img src="./assets/aws-cloud-quest-cloud-practitioner-training-badge.png" width="140"/>
 </a>
 
 </p>
@@ -113,11 +112,13 @@ DevOps Engineer | Java Developer | Kubernetes | Cloud Native | DevSecOps
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Perumal05&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Perumal05&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Perumal05&theme=tokyonight&hide_border=true"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Perumal05&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Perumal05&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
@@ -125,7 +126,8 @@ DevOps Engineer | Java Developer | Kubernetes | Cloud Native | DevSecOps
 
 # 🤝 Connect With Me
 
-📧 Email: **perumal180402@gmail.com**
+📧 Email  
+**perumal180402@gmail.com**
 
 💼 LinkedIn  
 https://www.linkedin.com/in/perumal-s-133481251/
