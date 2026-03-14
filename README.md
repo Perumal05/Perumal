@@ -113,8 +113,8 @@ Cloud Practitioner
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
 ![Gitleaks](https://img.shields.io/badge/Gitleaks-FF6B6B?style=for-the-badge)
 ![Checkov](https://img.shields.io/badge/Checkov-000000?style=for-the-badge)
-![JFrog Artifactory](https://img.shields.io/badge/JFrog%20Artifactory-41BF47?style=for-the-badge&logo=jfrog&logoColor=white)
-![Hashicorp Vault](https://img.shields.io/badge/Hashicorp%20Vault-000000?style=for-the-badge&logo=vault)
+![JFrog](https://img.shields.io/badge/JFrog%20Artifactory-41BF47?style=for-the-badge&logo=jfrog&logoColor=white)
+![Vault](https://img.shields.io/badge/Hashicorp%20Vault-000000?style=for-the-badge&logo=vault)
 
 ---
 
