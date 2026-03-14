@@ -67,31 +67,39 @@ Cloud Practitioner
 
 # 🛠 Technologies & Tools
 
-## ☸️ Containerization
+### ☸️ Containerization
+
+<p>
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white)
 
----
+</p>
 
-## ⚙️ CI/CD
+### ⚙️ CI/CD
+
+<p>
 
 ![Tekton](https://img.shields.io/badge/Tekton-FD495C?style=for-the-badge&logo=tekton&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![GitOps](https://img.shields.io/badge/GitOps-000000?style=for-the-badge&logo=git&logoColor=white)
 
----
+</p>
 
-## 🏗 Infrastructure as Code
+### 🏗 Infrastructure as Code
+
+<p>
 
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
----
+</p>
 
-## 📊 Observability
+### 📊 Observability
+
+<p>
 
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
@@ -99,16 +107,20 @@ Cloud Practitioner
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
 ![Elastic](https://img.shields.io/badge/EFK-005571?style=for-the-badge&logo=elastic&logoColor=white)
 
----
+</p>
 
-## ☁️ Cloud
+### ☁️ Cloud
+
+<p>
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
----
+</p>
 
-## 🔐 Security / DevSecOps
+### 🔐 DevSecOps
+
+<p>
 
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
 ![Gitleaks](https://img.shields.io/badge/Gitleaks-FF6B6B?style=for-the-badge)
@@ -116,14 +128,18 @@ Cloud Practitioner
 ![JFrog](https://img.shields.io/badge/JFrog-41BF47?style=for-the-badge&logo=jfrog&logoColor=white)
 ![Vault](https://img.shields.io/badge/Vault-000000?style=for-the-badge&logo=vault)
 
----
+</p>
 
-## 💻 Programming
+### 💻 Programming
+
+<p>
 
 ![Java](https://img.shields.io/badge/Java%20(Spring%20Boot)-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+</p>
 
 ---
 
