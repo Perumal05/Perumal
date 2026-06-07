@@ -60,6 +60,18 @@ Cloud Practitioner
 
 </td>
 
+<td align="center">
+
+<a href="https://www.credly.com/badges/086949e7-d974-4196-94cb-dfec13662ada/public_url">
+<img src="./assets/gcp-ace.png" height="120"/>
+</a>
+
+<br>
+
+<b>Google Cloud</b><br>
+Associate Cloud Engineer
+
+</td>
 </tr>
 </table>
 
